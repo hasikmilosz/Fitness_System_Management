@@ -1,0 +1,47 @@
+# Pliki użytkownika Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Foldery buildów
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Pliki tymczasowe
+*.cache
+*.ilk
+*.pch
+*.pdb
+*.tmp
+*.log
+
+# Folder .vs (konfiguracja IDE)
+.vs/
+
+# Foldery zależności
+packages/
+node_modules/
+
+# Środowiska Pythona
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Pliki systemowe OS
+.DS_Store
+Thumbs.db
+
+# Pliki wynikowe
+*.exe
+*.dll
+*.so
+*.dylib
